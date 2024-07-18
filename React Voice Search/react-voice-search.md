@@ -8,6 +8,9 @@ To install the package, use npm:
 
 npm install --save react-speech-recognition
 
+# For additional features, please refer to the
+[GitHub repository](https://github.com/JamesBrill/react-speech-recognition)
+
 # Basic example
 import React from 'react';
 import SpeechRecognition, { useSpeechRecognition } from 'react-speech-recognition';
@@ -37,6 +40,5 @@ const Dictaphone = () => {
 
 export default Dictaphone;
 
-# For a more detailed example and additional features, please refer to the
-[GitHub repository](https://github.com/JamesBrill/react-speech-recognition)
+
 
