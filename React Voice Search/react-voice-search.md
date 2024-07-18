@@ -15,7 +15,7 @@ npm install --save react-speech-recognition
 import React from 'react';
 import SpeechRecognition, { useSpeechRecognition } from 'react-speech-recognition';
 
-const Dictaphone = () => {
+<pre> const Dictaphone = () => {
   const {
     transcript,
     listening,
@@ -38,7 +38,8 @@ const Dictaphone = () => {
   );
 };
 
-export default Dictaphone;
+export default Dictaphone;</pre>
+
 
 
 
