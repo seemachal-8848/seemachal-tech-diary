@@ -6,7 +6,6 @@ React Speech Recognition is a library that allows you to add speech recognition 
 
 To install the package, use npm:
 
-```bash
 npm install --save react-speech-recognition
 
 # Basic example
@@ -38,6 +37,6 @@ const Dictaphone = () => {
 
 export default Dictaphone;
 
-For a more detailed example and additional features, please refer to the
+# For a more detailed example and additional features, please refer to the
 [GitHub repository](https://github.com/JamesBrill/react-speech-recognition)
 
