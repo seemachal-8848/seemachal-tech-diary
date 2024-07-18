@@ -38,5 +38,6 @@ const Dictaphone = () => {
 
 export default Dictaphone;
 
-For a more detailed example and additional features, please refer to the [GitHub repository](https://github.com/JamesBrill/react-speech-recognition).
+For a more detailed example and additional features, please refer to the
+[GitHub repository](https://github.com/JamesBrill/react-speech-recognition)
 
